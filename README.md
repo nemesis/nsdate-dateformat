@@ -1,6 +1,6 @@
 ##NSDate+DateFormat
 
-A category for NSDate for implementing DMY/MDY/YMD date formats with dash/period/slash separators
+A category on NSDate that implements DMY/MDY/YMD date formats with dash/period/slash separators
 
 ##Sample Usage:
 
